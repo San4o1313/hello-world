@@ -7,3 +7,5 @@ my name is Aleksandr
 i em 39 ears old
 
 new line
+
+edition from vc code
