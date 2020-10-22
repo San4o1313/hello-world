@@ -8,14 +8,4 @@ i em 39 ears old
 
 new line
 
-edition from vc code
-
-edition from vc code 2
-
-edit in new branch_2
-
-edit on github
-
-commit 1
-
-commit 2
+delite
